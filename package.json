@@ -1,0 +1,27 @@
+{
+  "name": "preact-bug",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "vitest": "vitest",
+    "jest": "jest",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/runtime": "^7.17.2",
+    "@preact/preset-vite": "^2.1.5",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/preact": "^2.0.1",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.5.1",
+    "jest-preset-preact": "^4.0.5",
+    "preact": "^10.5.15",
+    "regenerator-runtime": "^0.13.9",
+    "vite": "^2.8.0",
+    "vitest": "^0.3.2"
+  }
+}

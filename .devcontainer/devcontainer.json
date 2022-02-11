@@ -1,0 +1,19 @@
+{
+    "name": "preact-bug-dev",
+
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "preact-bug-dev",
+    "workspaceFolder": "/app",
+
+    "extensions": [
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+    ],
+
+    // "forwardPorts": [],
+
+    // "postCreateCommand": "",
+    // "postStartCommand": "",
+
+    // "remoteUser": "vscode"
+}
